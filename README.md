@@ -35,8 +35,7 @@ Memcached
 
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
-`При необходимости прикрепитe сюда скриншоты
-![Описание](https://github.com/onegerda/11-02/blob/main/photo_2025-04-09_14-23-28.jpg)`
+![Решение 2](https://raw.githubusercontent.com/onegerda/11-02/refs/heads/main/photo_2025-04-09_14-23-28.jpg)`
 
 
 ---
